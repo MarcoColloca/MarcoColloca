@@ -32,28 +32,28 @@ After several years, I decided to leave that security behind and embark on a new
         JavaScript <img src="./imgs/javascriptIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Bootstrap <img src="./imgs/BootstrapIcon.png" alt="Icon" width="30" height="30">     
+        Bootstrap <img src="./imgs/bootstrapIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Vue <img src="./imgs/VueIcon.png" alt="Icon" width="30" height="30">     
+        Vue <img src="./imgs/vueIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Laravel <img src="./imgs/LaravelIcon.png" alt="Icon" width="30" height="30">     
+        Laravel <img src="./imgs/laravelIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        MySql <img src="./imgs/MySqlIcon.png" alt="Icon" width="30" height="30">     
+        MySql <img src="./imgs/mysqlIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
         JavaScript <img src="./imgs/javaScriptIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        PHP <img src="./imgs/PHPIcon.png" alt="Icon" width="30" height="30">     
+        PHP <img src="./imgs/phpIcon.png" alt="Icon" width="30" height="30">     
     </span>
         <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
         Scss <img src="./imgs/scssIcon.png" alt="Icon" width="30" height="30">     
     </span>
         <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Vite <img src="./imgs/ViteIcon.png" alt="Icon" width="30" height="30">     
+        Vite <img src="./imgs/viteIcon.png" alt="Icon" width="30" height="30">     
     </span>
 </div>
 
