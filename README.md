@@ -44,7 +44,7 @@ After several years, I decided to leave that security behind and embark on a new
         MySql <img src="./imgs/mysqlIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        JavaScript <img src="./imgs/javaScriptIcon.png" alt="Icon" width="30" height="30">     
+        JavaScript <img src="./imgs/javascriptIcon.png" alt="Icon" width="30" height="30">     
     </span>
     <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
         PHP <img src="./imgs/phpIcon.png" alt="Icon" width="30" height="30">     
