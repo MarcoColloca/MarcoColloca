@@ -56,7 +56,7 @@ After several years, I decided to leave that security behind and embark on a new
 <br>
 
     
--  <img src="./imgs/ViteIcon.png" alt="Icon" width="30" height="30">  Vite
+-  <img src="./imgs/viteIcon.png" alt="Icon" width="30" height="30">  Vite
 <br>
     
 
