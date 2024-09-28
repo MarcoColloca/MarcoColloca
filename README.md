@@ -21,51 +21,56 @@ After several years, I decided to leave that security behind and embark on a new
 
 # Skills ⚡
 ### These are some of the languages, frameworks, and other technologies I have learned during my time as a programmer. I don't consider myself an expert, but I have a solid foundation that enables me to work effectively.
-<div style="display: flex; flex-wrap:wrap; align-items: center; justify-content: flex-start; height:100px; margin-bottom:20px; gap:25px; max-width:800px;">
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        HTML <img src="./imgs/htmlIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        CSS <img src="./imgs/cssIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        JavaScript <img src="./imgs/javascriptIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Bootstrap <img src="./imgs/bootstrapIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Vue <img src="./imgs/vueIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Laravel <img src="./imgs/laravelIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        MySql <img src="./imgs/mysqlIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        PHP <img src="./imgs/phpIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-        <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Scss <img src="./imgs/scssIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-        <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Vite <img src="./imgs/viteIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-</div>
+-  <img src="./imgs/htmlIcon.png" alt="Icon" width="30" height="30"> HTML
+
+
+-  <img src="./imgs/cssIcon.png" alt="Icon" width="30" height="30"> CSS
+<br>
+
+        
+-  <img src="./imgs/scssIcon.png" alt="Icon" width="30" height="30">  Scss
+<br>
+
+
+-  <img src="./imgs/bootstrapIcon.png" alt="Icon" width="30" height="30"> Bootstrap
+<br>
+
+    
+-  <img src="./imgs/javascriptIcon.png" alt="Icon" width="30" height="30"> JavaScript
+<br>
+
+    
+-  <img src="./imgs/vueIcon.png" alt="Icon" width="30" height="30"> Vue
+<br>
+
+    
+-  <img src="./imgs/phpIcon.png" alt="Icon" width="30" height="30">  PHP
+<br>
+
+    
+-  <img src="./imgs/laravelIcon.png" alt="Icon" width="30" height="30"> Laravel
+<br>
+
+        
+-  <img src="./imgs/mysqlIcon.png" alt="Icon" width="50" height="30"> MySql
+<br>
+
+    
+-  <img src="./imgs/ViteIcon.png" alt="Icon" width="30" height="30">  Vite
+<br>
+    
 
 <br><br><br>
 
 # Currently Learning 🤔
 ### These are some of the languages, frameworks, and other technologies I'm currently studying, i know the basics, but i still need time to master their secrets.
-<div style="display: flex; flex-wrap:wrap; align-items: center; justify-content: flex-start; height:100px; margin-bottom:20px; gap:25px; max-width:800px;">
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        gsap <img src="./imgs/gsapIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-    <span style="display: flex; align-items: center; justify-content:flex-start; gap:10px; width:20%;">    
-        Docker <img src="./imgs/DockerIcon.png" alt="Icon" width="30" height="30">     
-    </span>
-</div>
+
+- <img src="./imgs/gsapIcon.png" alt="Icon" width="30" height="30"> gsap
+<br>
+    
+        
+- <img src="./imgs/DockerIcon.png" alt="Icon" width="30" height="30"> Docker    
+<br>
 
 <br><br><br>
 
