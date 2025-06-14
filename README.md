@@ -55,7 +55,9 @@ After several years, I decided to leave that security behind and embark on a new
 -  <img src="./imgs/mysqlIcon.png" alt="Icon" width="50" height="30"> MySql
 <br>
 
-    
+- <img src="./imgs/DockerIcon.png" alt="Icon" width="30" height="30"> Docker    
+<br>
+
 -  <img src="./imgs/viteIcon.png" alt="Icon" width="30" height="30">  Vite
 <br>
     
@@ -66,10 +68,10 @@ After several years, I decided to leave that security behind and embark on a new
 ### These are some of the languages, frameworks, and other technologies I'm currently studying, i know the basics, but i still need time to master their secrets.
 
 - <img src="./imgs/gsapIcon.png" alt="Icon" width="30" height="30"> gsap
-<br>
+
     
         
-- <img src="./imgs/DockerIcon.png" alt="Icon" width="30" height="30"> Docker    
+
 <br>
 
 <br><br><br>
@@ -83,6 +85,7 @@ After several years, I decided to leave that security behind and embark on a new
 
 # Works I'm Proud ✨
 - <a href="https://farrealms.netlify.app/">Far Realms</a>
+
 
 <!--
 **MarcoColloca/MarcoColloca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
